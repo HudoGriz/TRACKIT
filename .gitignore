@@ -1,0 +1,10 @@
+.Rproj.user
+.RData
+.Rhistory
+trackit+.Rproj
+README.html
+
+app/README.html
+app/dm.R
+app/secret.R
+app/rsconnect
