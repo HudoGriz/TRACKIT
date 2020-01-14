@@ -1,6 +1,6 @@
 require(shiny)
 shiny::runApp(
-  "./workbanch/app",
+  "./app",
   launch.browser = FALSE,
   port = 5555,
   host = "0.0.0.0"
