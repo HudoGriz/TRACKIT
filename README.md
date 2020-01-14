@@ -12,8 +12,7 @@ It is build using _R Shiny_. The database is incorporated in _Firebase_.
 To start using it you either have to link the app to your database or create your project at firebase. You also have to create a project in google console and allowing authentication on the set url. If you run the app locally use _localhost:5555_ (Change the port number accordingly).
 
 
-There are two files you need to create:  
-* select a character
+There are two files you need to create:
 * secret.R  
   * store the secrets from Firebase and google (for reference look at dummy file)  
 * dm.R  
