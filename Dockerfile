@@ -35,7 +35,7 @@ RUN R -e "remotes::install_github('Kohze/fireData')"
 COPY shiny-server.conf  /etc/shiny-server/shiny-server.conf
 COPY /app /srv/shiny-server/
 
-# Make the ShinyApp available at port 80
+# Make the ShinyApp available at port 5555
 EXPOSE 5555
 
 # Copy further configuration files into the Docker image

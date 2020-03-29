@@ -4,6 +4,7 @@
 
 The app aims to help with the chores that come with the **oldschool** style of the game, without removing its fun. Me and my friends started the campaign **Tomb of annihilation**, and the idea came up to make something to help track with the amount of resources and encumberment. The app is therefore specifically tailored for the jungle exploration but could be used to help with any kind of adventure and is especially useful for hex-crawlers alike.
 
+[Live app example](https://hudogriz2.shinyapps.io/public/)
 
 ## Getting started
 
